@@ -18,8 +18,3 @@ A data analysis and machine learning project that builds and compares classifica
 #Files in this project
   1. **Churn Prediction.ipynb:** The main Jupyter Notebook containing the code and visualizations.
   2. **customer_churn_dataset-testing-master.csv:** The raw dataset containing customer info.
-
-# How to run it
-1. Install the libraries we need by running:
-   ```bash
-   pip install streamlit pandas scikit-learn requests
